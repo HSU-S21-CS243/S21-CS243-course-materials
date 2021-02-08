@@ -36,7 +36,6 @@ You will be graded using the following:
 * [33 pts] Building efficient chips 
 * [20 pts] Creating diagrams for each of your chips
 * [10 pts] Writing a good design diary
-* [5 pts] Writing a good buddy report
 
 # Due Date
-This project is due by Midnight on February 10, 2021.  Your repository should contain all chips, diagrams, and output files from the test runs provided to you by the book.  On canvas, you will submit your buddy report and design diary.
+This project is due by Midnight on February 10, 2021.  Your repository should contain all chips, diagrams, and output files from the test runs provided to you by the book.  On canvas, you will submit your design diary.
