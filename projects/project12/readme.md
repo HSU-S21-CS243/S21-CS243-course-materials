@@ -54,14 +54,22 @@ The number of points you receive will be based on your particular implementation
 * [15 pts] You implement the basic memory allocation algorithm in C++
 * [20 pts] You implement the basic memory allocation algorithm in Jack
 
+---
+
 * [35 pts] You implement the medium difficulty memory allocation algorithm in C++
 * [40 pts] You implement the medium difficulty memory allocation algorithm in Jack
 
-* [80 pts] You implement the high difficulty memory allocation algorithm in C++
+---
+
+* [80 pts] You implement the high difficulty memory allocation algorithm in C++ **AND** you implemented the medium difficulty assignment in Jack.
 * [85 pts] You implement the high difficulty memory allocation algorithm in Jack
 
-* [90 pts] You implement the advanced difficulty memory allocation algorithm in C++
+---
+
+* [90 pts] You implement the advanced difficulty memory allocation algorithm in C++ **AND** you implemented the high difficulty assignment in Jack.
 * [100 pts] You implement the advanced difficulty memory allocation algorithm in Jack
+
+---
 
 * [10 pts] Writing a good design diary
 
